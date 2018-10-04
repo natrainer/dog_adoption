@@ -50,23 +50,23 @@ header {
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 7vw;
     font-family: 'Poppins', sans-serif;
-    line-height: 80px;
+    line-height: 7vh;
     margin: 10px;
 }
 
 .dog-showcase {
-    width: 400px;
-    height: 400px;
+    width: 33vw;
+    height: 25vh;
     border-radius: 50%;
     background-color: #FFFFFF;
     border: 8px solid #537AD3;
 }
 
 .dog-showcase img {
-    width: 300px;
-    margin: -40px 50px 0 50px;
+    width: 28vw;
+    margin: -30px 40px 0 30px;
 }
 
 section {
